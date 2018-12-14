@@ -1,0 +1,6 @@
+# Robots.txt file from //www.anonshells.com
+
+Sitemap: //www.anonshells.com/sitemap.xml
+
+User-agent: *
+Disallow:
